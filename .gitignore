@@ -1,0 +1,11 @@
+# patient data
+data/
+*.npy
+*.mat
+
+# outputs
+results/
+
+# python / jupyter
+__pycache__/
+.ipynb_checkpoints/
